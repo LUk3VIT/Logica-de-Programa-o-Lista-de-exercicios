@@ -1,0 +1,11 @@
+Hello William!
+
+I hope everything is going well with you!
+
+I'll teach you in a simple way how to download and install the new software you would like to have. First, open your web browser and visit the official website of the software you want to download. On the website, look for the "Downloads" or "Download" section. Once you find it, click to access the version options.
+
+It's important to select the correct version for your operating system, whether it's Windows, macOS, or Linux. After choosing the appropriate version, click on the download button. When the download is complete, locate the file in your downloads folder and double-click on it to start the installation.
+
+During the installation, follow the instructions displayed by the installation wizard, clicking "Next" as necessary and accepting the terms and conditions. Unless you have a specific preference, leave the installation directory at the suggested default. At the end of the process, click "Finish" and, if prompted, restart your computer to complete the installation.
+
+If you have any questions or encounter any issues, send me an email.
